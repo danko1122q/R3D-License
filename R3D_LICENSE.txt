@@ -1,8 +1,6 @@
-================================================================================
-                          R3D LICENSE
-          Rendering Three-Dimensional Library License
-                         Version 1.0
-================================================================================
+R3D LICENSE
+Rendering Three-Dimensional Library License
+Version 1.0
 
 Copyright (c) 2026 danko1122q. All rights reserved.
 
@@ -13,7 +11,7 @@ conditions:
 
 
 Section 1. Purpose and Scope
---------------------------------------------------------------------------------
+
 The R3D License governs the use, distribution, and modification of any
 three-dimensional rendering library published under this license. It is designed
 to protect the rights of the original creator while granting developers
@@ -22,7 +20,7 @@ rely on 3D rendering technology.
 
 
 Section 2. Definitions
---------------------------------------------------------------------------------
+
 "Software" refers to all source code, compiled binaries, shaders, rendering
 pipelines, 3D assets, and documentation included in the distribution package
 of this library.
@@ -39,7 +37,7 @@ platforms or environments.
 
 
 Section 3. Granted Rights
---------------------------------------------------------------------------------
+
 The Creator grants the User a non-exclusive, royalty-free right to use the
 Software for personal, academic, and commercial purposes.
 
@@ -54,7 +52,7 @@ modification.
 
 
 Section 4. User Obligations
---------------------------------------------------------------------------------
+
 Any distribution of the Software or a Derivative Work must include a complete,
 unmodified copy of this license.
 
@@ -67,7 +65,7 @@ ensure that such use does not infringe upon the rights of any third party.
 
 
 Section 5. Restrictions
---------------------------------------------------------------------------------
+
 The User may not sell, rent, or sublicense the Software as a standalone product
 separate from a Derivative Work, unless prior written permission has been
 obtained from the Creator.
@@ -85,7 +83,7 @@ independent product.
 
 
 Section 6. Contributions
---------------------------------------------------------------------------------
+
 Any contribution submitted by a User to the Software is considered voluntarily
 offered and shall be governed by the same terms as this R3D License.
 
@@ -95,7 +93,7 @@ in official release notes.
 
 
 Section 7. Disclaimer of Warranty
---------------------------------------------------------------------------------
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
@@ -108,7 +106,7 @@ RENDERING PIPELINE ERRORS, OR BUSINESS INTERRUPTION.
 
 
 Section 8. Termination
---------------------------------------------------------------------------------
+
 This license remains in effect for as long as the User complies with its terms.
 Any violation of the terms herein results in automatic termination of this
 license.
@@ -120,7 +118,7 @@ Section 4, Section 7, and Section 9 survive termination of this license.
 
 
 Section 9. Governing Law
---------------------------------------------------------------------------------
+
 This license is governed by the laws of the country in which the Creator is
 domiciled. Any dispute arising from or related to this license shall first be
 addressed through good-faith negotiation between the parties.
@@ -130,6 +128,4 @@ either party may submit the matter to the appropriate legal authority under
 applicable law.
 
 
-================================================================================
-                    END OF R3D LICENSE TERMS
-================================================================================
+END OF R3D LICENSE TERMS
